@@ -3,6 +3,10 @@
 <h1 align="left">Hi 👋, I'm Johanna!</h1>
 <h3 align="left">BSIT Student at Gordon College</h3>
 
+<p align="center">
+  <img src="./assets/rage-anime.gif" width="700" alt="Banner GIF">
+</p>
+
 # About Me
 
 🎓 BS Information Technology Student at Gordon College
