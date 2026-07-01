@@ -72,10 +72,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hnnahh/Hnnahh/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
   <b>"Turning ideas into innovative solutions through technology."</b>
 </p>
 
