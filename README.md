@@ -1,16 +1,88 @@
 <!-- Level 1: Simple bio and stats-->
 
-# Hi, I'm Johanna 👋
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Princess+Johanna+M.+Jimenez+👋;BSIT+Student+💻;Aspiring+Software+Developer+🚀;Future+Tech+Innovator+✨" alt="Typing SVG" />
 
-💻 BS Information Technology Student at Gordon College  
-🔧 Specializing in Computer Hardware and Troubleshooting  
-🌱 Currently learning React Native, Web Development, and UI/UX Design  
-🚀 Building projects that solve real-world problems through technology  
-🤝 Open to collaboration on software development and IT-related projects  
-📫 Reach me: jimenezjohanna245@gmail.com  
-⚡ Fun Fact: I love coding, singing, dancing, painting, and exploring new technologies.
+# 💜 About Me
+
+🎓 BS Information Technology Student at Gordon College
+
+💻 Passionate about Software Development, Networking, and Emerging Technologies
+
+🌱 Currently learning React Native, Web Development, and Database Management
+
+🚀 Building innovative solutions through technology and creativity
+
+🎨 I enjoy Singing, Dancing, Painting, and UI/UX Design
+
+📍 Olongapo City, Philippines
 
 ---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔐 Smart Classroom Security System
+
+🚌 Olongapo City Jeepney Route System
+
+📚 Student Information System
+
+💡 Student Innovation System
+
+📦 Inventory Management System
+
+---
+
+## 🏆 Certifications
+
+✔ TESDA Computer Systems Servicing (CSS) NC II
+
+✔ Your Value in the IT Industry
+
+✔ IoT: Turning What Ifs? Into Why Not?
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hnnahh&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnnahh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hnnahh&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** jimenezjohanna245@gmail.com
+
+💼 Open for internships, collaborations, and learning opportunities
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hnnahh&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>"Turning ideas into innovative solutions through technology."</b>
+</p>
 
 ### 🛠️ Technologies & Tools
 
@@ -19,11 +91,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readee-stats-->
-
-![Johanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hnnahh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hnnahh&layout=compact&theme=radical)
