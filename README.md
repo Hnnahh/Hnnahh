@@ -1,7 +1,7 @@
 <!-- Level 1: Simple bio and stats-->
 
-<h1 align="center">Hi 👋, I'm Johanna!</h1>
-<h3 align="center">BSIT Student at Gordon College</h3>
+<h1 align="left">Hi 👋, I'm Johanna!</h1>
+<h3 align="left">BSIT Student at Gordon College</h3>
 
 # About Me
 
