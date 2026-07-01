@@ -1,8 +1,9 @@
 <!-- Level 1: Simple bio and stats-->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Princess+Johanna+M.+Jimenez+👋;BSIT+Student+💻;Aspiring+Software+Developer+🚀;Future+Tech+Innovator+✨" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Johanna!</h1>
+<h3 align="center">BSIT Student at Gordon College</h3>
 
-# 💜 About Me
+# About Me
 
 🎓 BS Information Technology Student at Gordon College
 
@@ -11,10 +12,6 @@
 🌱 Currently learning React Native, Web Development, and Database Management
 
 🚀 Building innovative solutions through technology and creativity
-
-🎨 I enjoy Singing, Dancing, Painting, and UI/UX Design
-
-📍 Olongapo City, Philippines
 
 ---
 
@@ -50,16 +47,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hnnahh&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnnahh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -70,11 +57,18 @@
 
 ## 🌐 Connect With Me
 
-📧 **Email:** jimenezjohanna245@gmail.com
+###
 
-💼 Open for internships, collaborations, and learning opportunities
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hnnahh&label=Profile+Views&color=blueviolet&style=for-the-badge" />
@@ -83,3 +77,5 @@
 <p align="center">
   <b>"Turning ideas into innovative solutions through technology."</b>
 </p>
+
+
